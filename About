@@ -1,0 +1,8 @@
+About:
+
+This project is simple room planner. 
+User can draw wall segments or furnitures after selecting appropriate button in "Add Elements" groupBox. 
+The user can also move an element by clicking on it with left mouse button and moving the cursor (with left mouse button still pressed).
+What is more application support rotating the elements (the user has to select the element, and scroll using mouse wheel).
+The application support saving and loading created blueprints (I use Serialization to load all the data).
+The application support two languages (English and Polish).
