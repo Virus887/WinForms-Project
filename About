@@ -1,6 +1,6 @@
 About:
 
-This project is simple room planner. 
+This project is a simple room planner. 
 User can draw wall segments or furnitures after selecting appropriate button in "Add Elements" groupBox. 
 The user can also move an element by clicking on it with left mouse button and moving the cursor.
 What is more application support rotating the elements (the user has to select the element, and scroll using mouse wheel).
